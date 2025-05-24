@@ -1,6 +1,6 @@
 name: noor_player
 description: A customizable video player with thumbnail and caching support.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/oalinoor11/noor_video_player
 
 environment:
